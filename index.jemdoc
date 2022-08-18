@@ -1,0 +1,100 @@
+# jemdoc: nofooter
+# jemdoc: addcss{css/jemdoc.css}
+# jemdoc: addcss{css/jemdoc_yuzhe.css}
+# jemdoc: addcss{ccs/myMiddle.css}
+# jemdoc: title{Shuo YIN -- CSE CUHK}
+
+
+~~~
+{}{img_left}{img/yinshuo.jpg}{}{150}{Shuo YIN}
+= Shuo YIN (尹硕)
+
+*Ph.D. Student*  
+[http://www.cse.cuhk.edu.hk Department of Computer Science and Engineering] \n
+[http://www.cuhk.edu.hk/english/index.html The Chinese University of Hong Kong] \n
+*Supervisor*: [http://www.cse.cuhk.edu.hk/~byu/ Prof. Bei YU] \n
+*Email*:yinshuo991229@gmail.com\n
+{{<a href="https://github.com/SawyDust1228" target="<u>blank"><img src="img/github-3.png" height=30></a>  }} \n           
+# *[http://sxchen.cn/resource/cv_Shixin_CHEN.pdf CV/Resume]* \n
+~~~
+
+
+
+
+== Biography
+I am a first-year Ph.D. Student at [http://www.cse.cuhk.edu.hk the Department of Computer Science and Engineering], [http://www.cuhk.edu.hk the Chinese University of Hong Kong (CUHK)],
+under the supervision of [http://www.cse.cuhk.edu.hk/~byu/ Prof. Bei YU] since Fall 2022. Prior to that, I obtained my B.Eng. degree from [https://ev.buaa.edu.cn/ Beihang University] under the supervision of [https://wayxing.github.io/ Prof. Wei XING] in 2022.\n 
+
+Besides research, I love playing tabletop game and CSGO in my spare time.
+
+== Recent News
+~~~
+- Jun/2022: I graduate from Beihang Univeristy! Thanks to all the friends I met in Beihang University during my undergraduate time!
+- May/2022: One paper has submitted to IEEE\/ACM International Conference on Computer-Aided Design (ICCAD). Waiting for some good news!
+- Feb/2022: *Congratulation!* Our work on yield optimization is published on IEEE\/ACM Design Automation Conference (DAC)!
+~~~
+
+
+== Research Interest
+- Design Space Exploration
+- Placement & Routing
+- GPU Parallelization for EDA
+
+== Publication
+#- \[C6\] *Siting Liu*, Peiyu Liao, Rui Zhang, Zhitang Chen, Wenlong Lv, Yibo Lin, Bei Yu, “FastGR: Global Routing on CPU-GPU with Heterogeneous Task Graph Scheduler”, IEEE/ACM Proceedings Design, Automation and Test in Europe (DATE), Mar. 14–23, 2022.
+#
+#- \[C5\] Peiyu Liao, *Siting Liu*, Zhitang Chen, Wenlong Lv, Yibo Lin, Bei Yu, “DREAMPlace 4.0: Timing-driven Global Placement with Momentum-based Net Weighting”, IEEE/ACM Proceedings Design, Automation and Test in Europe (DATE), Mar. 14–23, 2022.
+#
+#- \[C4\] Qi Sun, Tinghuan Chen, *Siting Liu*, Jin Miao, Jianli Chen, Hao Yu, Bei Yu, “Correlated Multi-objective Multi-fidelity Optimization for HLS Directives Design”, IEEE/ACM Proceedings Design, Automation and Test in Europe (DATE), Feb. 01–05, 2021. *(Best Paper Nomination)*
+#
+#- \[C3\] *Siting Liu*, Qi Sun, Peiyu Liao, Yibo Lin, Bei Yu, “Global Placement with Deep Learning-Enabled Explicit Routability Optimization”, IEEE/ACM Proceedings Design, Automation and Test in Europe (DATE), Feb. 01–05, 2021.
+#
+#- \[C2\] Zhuolun He, Peiyu Liao, *Siting Liu*, Yuzhe Ma, Bei Yu, “Physical Synthesis for Advanced Neural Network Processors”, IEEE/ACM Asian and South Pacific Design Automation Conference (ASPDAC), Jan. 18–21, 2021. (Invited Paper)
+#
+- \[C1\] *Shuo Yin*, Xiang Jin, Linxu Shi, Kang Wang, Wei W. Xing, “Efficient Bayesian Yield Analysis and Optimization with Active Learning”, ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jul. 10-14, 2022.
+
+#- Looking forward to some good news.
+
+== Education
+- Ph.D. The Chinese University of Hong Kong (CUHK), Aug/2022 - Now
+- B.Eng. (Honor Degree), Beihang University (BUAA), Sep\/2018 - Jun\/2022
+
+== Selected Awards
+~~~
+{}{table}{noborder}
+ 
+ Full Postgraduate Studentship                                                 |The Chinese University of Hong Kong                                                 |2022-2026||
+ Third Prize, Intergrated Circuit EDA Elite Challenge                          | Beihang University                                                            | 2022||
+ Meritorious Winner (With Yuxin WANG, Siqi WANG), MCM/ICM                         | Beihang University                                                            | 2021||
+ Outstanding Scholarship (10%)                                                   |Beihang University                                                       |2021||
+ First Prize, National College Mathematics Competition                       |Beihang University                                                                  | 2019||
+~~~
+ 
+ 
+== Experiences
+#*[https://smartmore.global/ SmartMore Co.Ltd]*
+#- Research Intern, Heterogeneous Computing Group
+#- Jul. 2021 – Now, Shen Zhen site
+#- Topic: Hardware&Software Co-Optimization
+
+*[https://www.hku.hk/ The University of Hong Kong]*
+- Research Assistant, [http://canlab.hku.hk/ CANLab], Department of Electrical and Electronic Engineering
+- Jun\/2021 - Sep\/2021, Remoted
+- Topic: Application of Memristor
+
+*[https://www.hku.hk/ Lehigh University]*
+- Research Assistant, supervised by [https://wordpress.lehigh.edu/guo/ Prof. XiaoChen GUO]
+- Dec\/2020 - Dec\/2021, Remoted
+- Topic: Accelerator for Sparse Matrix Multiplication
+
+== Skills
+- Languages: C\/C\+\+, Verilog, Python, Java, Chisel 
+- Tools    : Xilinx Vivado, PyTorch, LaTeX
+- Hobbies  : Bamboo Flute, Drum, Frisbee
+
+#== Presentations
+#- A Brief Introduction to Chisel ([http://sxchen.cn/resource/slides/Chisel-intro.pdf sildes])
+#- A Brief Introduction to Gemmini ([http://sxchen.cn/resource/slides/Intro_to_Gemmini.pdf slides])
+#- Design of DNN Accelerator Based on Winograd Algorithm using Chisel ([http://sxchen.cn/resource/slides/Winograd_Accelerator.pdf slides])
+
+
