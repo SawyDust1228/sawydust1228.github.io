@@ -35,21 +35,20 @@ Besides research, I love playing tabletop game and CSGO in my spare time.
 
 
 == Research Interest
-- Design Space Exploration
-- Placement & Routing
-- GPU Parallelization for EDA
+- PL/Compiler Design for Hardware
+- Large Scale GPU Parallelization for EDA
 
 == Publication
 #- \[C6\] *Siting Liu*, Peiyu Liao, Rui Zhang, Zhitang Chen, Wenlong Lv, Yibo Lin, Bei Yu, “FastGR: Global Routing on CPU-GPU with Heterogeneous Task Graph Scheduler”, IEEE/ACM Proceedings Design, Automation and Test in Europe (DATE), Mar. 14–23, 2022.
 #
 #- \[C5\] Peiyu Liao, *Siting Liu*, Zhitang Chen, Wenlong Lv, Yibo Lin, Bei Yu, “DREAMPlace 4.0: Timing-driven Global Placement with Momentum-based Net Weighting”, IEEE/ACM Proceedings Design, Automation and Test in Europe (DATE), Mar. 14–23, 2022.
 #
-#- \[C4\] Qi Sun, Tinghuan Chen, *Siting Liu*, Jin Miao, Jianli Chen, Hao Yu, Bei Yu, “Correlated Multi-objective Multi-fidelity Optimization for HLS Directives Design”, IEEE/ACM Proceedings Design, Automation and Test in Europe (DATE), Feb. 01–05, 2021. *(Best Paper Nomination)*
-#
+- \[C4\] Yang Bai, Wenqian Zhao, *Shuo Yin*, Zixiao Wang, Bei Yu, “ATFormer: A Learned Performance Model with Transfer Learning Across Devices for Large-Scale Transformers”, Empirical Methods in Natural Language Processing (EMNLP), Singapore, Dec. 06–10, 2023.
+
 - \[C3\] Shixin Chen, Su Zheng, Chen Bai, Wenqian Zhao, *Shuo Yin*, Yang Bai, Bei Yu, “SoC-Tuner: An Importance-guided Exploration Framework for DNN-targeting SoC Design”, IEEE/ACM Asian and South Pacific Design Automation Conference (ASPDAC), Jan. 22-25, 2024.
-#
+
 - \[C2\] *Shuo Yin*, GuoHao Dai, Wei W. Xing, “High Dimensional Yield Estimation using Shrinkage Deep Features and Maximization of Integral Entropy Reduction”, IEEE/ACM Asian and South Pacific Design Automation Conference (ASP-DAC), Tokyo Odaiba Miraikan, Japan, Jan. 16-19, 2023. ([https://github.com/SawyDust1228/HSIC-DKL-Yield-Estimation code])
-#
+
 - \[C1\] *Shuo Yin*, Xiang Jin, Linxu Shi, Kang Wang, Wei W. Xing, “Efficient Bayesian Yield Analysis and Optimization with Active Learning”, ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jul. 10-14, 2022.
 
 #- Looking forward to some good news.
