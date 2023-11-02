@@ -26,11 +26,11 @@ Besides research, I love playing tabletop game and CSGO in my spare time.
 
 == Recent News
 ~~~
-- Sep/2022: *Congratulation!* Our work on yield optimization is published on IEEE\/ACM Asia and South Pacific Design Automation Conferenc (ASP-DAC)!
+- Sep/2022: *Congratulation!* Our work on full-chip scale ILT is published on ACM International Symposium on Physical Design (ISPD)!
 # - Jul/2022: One paper has submitted to IEEE\/ACM Asia and South Pacific Design Automation Conferenc (ASP-DAC). Waiting for some good news!
-- Jun/2022: I graduate from Beihang Univeristy! Thanks to all the friends I met in Beihang University during my undergraduate time!
+# - Jun/2022: I graduate from Beihang Univeristy! Thanks to all the friends I met in Beihang University during my undergraduate time!
 # - May/2022: One paper has submitted to IEEE\/ACM International Conference on Computer-Aided Design (ICCAD). Waiting for some good news!
-- Feb/2022: *Congratulation!* Our work on yield optimization is published on IEEE\/ACM Design Automation Conference (DAC)!
+#- Feb/2022: *Congratulation!* Our work on yield optimization is published on IEEE\/ACM Design Automation Conference (DAC)!
 ~~~
 
 
@@ -39,10 +39,9 @@ Besides research, I love playing tabletop game and CSGO in my spare time.
 - Large Scale GPU Parallelization for EDA
 
 == Publication
-#- \[C6\] *Siting Liu*, Peiyu Liao, Rui Zhang, Zhitang Chen, Wenlong Lv, Yibo Lin, Bei Yu, “FastGR: Global Routing on CPU-GPU with Heterogeneous Task Graph Scheduler”, IEEE/ACM Proceedings Design, Automation and Test in Europe (DATE), Mar. 14–23, 2022.
-#
-#- \[C5\] Peiyu Liao, *Siting Liu*, Zhitang Chen, Wenlong Lv, Yibo Lin, Bei Yu, “DREAMPlace 4.0: Timing-driven Global Placement with Momentum-based Net Weighting”, IEEE/ACM Proceedings Design, Automation and Test in Europe (DATE), Mar. 14–23, 2022.
-#
+
+- \[C5\] *Shuo Yin*, Wenqian Zhao, Li Xie, Hong Chen, Yuzhe Ma, Tsung-Yi Ho, Bei Yu, “FuILT: Full Chip ILT System With Boundary Healing”, ACM International Symposium on Physical Design (ISPD), Taipei, Mar. 12–15, 2023.
+
 - \[C4\] Yang Bai, Wenqian Zhao, *Shuo Yin*, Zixiao Wang, Bei Yu, “ATFormer: A Learned Performance Model with Transfer Learning Across Devices for Large-Scale Transformers”, Empirical Methods in Natural Language Processing (EMNLP), Singapore, Dec. 06–10, 2023.
 
 - \[C3\] Shixin Chen, Su Zheng, Chen Bai, Wenqian Zhao, *Shuo Yin*, Yang Bai, Bei Yu, “SoC-Tuner: An Importance-guided Exploration Framework for DNN-targeting SoC Design”, IEEE/ACM Asian and South Pacific Design Automation Conference (ASPDAC), Jan. 22-25, 2024.
